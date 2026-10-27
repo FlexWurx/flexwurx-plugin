@@ -1,0 +1,61 @@
+FlexWurx Plugin License
+
+Copyright (c) 2026 FlexWurx, LLC. All rights reserved.
+
+1. Acceptance
+   By installing, accessing or using the Plugin, you agree to this license. If you don't agree, don't install, access or use it. If you accept for an organization, you agree for that organization, and you confirm you have authority to do so.
+
+2. Definitions
+   "FlexWurx" means FlexWurx, LLC, a Colorado limited liability company, and its successors and assigns.
+   "Plugin" means the files this license comes with, including their skills, instructions, manifest, configuration and documentation, in every version.
+   "Service" means FlexWurx's hosted software platform, including its MCP server at https://mcp.flexwurx.com.
+   "Service Agreement" means the agreement under which you have access to the Service: the FlexWurx End User License Agreement, the FlexWurx Terms of Service at https://flexwurx.com/legal/terms-of-service, and any other written agreement between FlexWurx and you, your organization, or an authorized FlexWurx reseller or distributor through which your organization obtains the Service.
+   "Authorized User" means a person who holds an active account to access the Service under a Service Agreement.
+   "You" means the person or organization accepting this license.
+
+3. License
+   If you are an Authorized User, and for as long as you remain one, FlexWurx grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Plugin in an AI assistant connected to the Service, solely to access and use the Service as your Service Agreement permits. The Plugin is licensed, not sold.
+
+4. Restrictions
+   Except as this license expressly permits, you shall not, directly or indirectly:
+   (a) copy the Plugin, except for the copies an AI assistant makes automatically to install and run it;
+   (b) modify, adapt, translate or create derivative works of the Plugin, in whole or in part, including by putting its instructions or text into any other skill, prompt, plugin or software;
+   (c) rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer or otherwise make the Plugin available to anyone;
+   (d) use the Plugin with any service other than the Service, or to build, train or improve any product or service;
+   (e) remove or alter any copyright, proprietary or license notice in the Plugin; or
+   (f) use the Plugin in any way that violates any law or the rights of any person.
+
+5. Public repositories and directories
+   The Plugin is published in a public source repository so that software directories can distribute it. Being able to view the Plugin, to fork it through a repository host's own features as that host's terms provide, or to obtain it from a directory, gives no right to use, copy, modify or distribute it beyond this license.
+   FlexWurx authorizes the software directories it submits the Plugin to, including Anthropic's, to host, display and distribute the Plugin to Authorized Users under their terms with FlexWurx.
+
+6. Ownership
+   FlexWurx owns all right, title and interest in and to the Plugin, including all intellectual property rights in it. FlexWurx reserves all rights not expressly granted in this license. Nothing in this license grants any right in the Plugin by implication, waiver, estoppel or otherwise.
+
+7. Trademarks
+   This license grants no right to use FlexWurx's names, logos, trademarks or service marks.
+
+8. Termination
+   This license ends automatically and immediately, without notice, if you breach any of its terms, or when you stop being an Authorized User, including when your account or your organization's Service Agreement ends. FlexWurx may also end it at any time by notice to you. When it ends, you must stop using the Plugin and remove it from every AI assistant, account and device where it's installed. Sections 4 through 7 and 9 through 13 survive.
+
+9. No warranty
+   The Plugin is provided "as is" and "as available", with all faults and without warranty of any kind, express or implied, including any warranty of merchantability, fitness for a particular purpose, title or non-infringement. Anything an AI assistant produces while using the Plugin is for information only and may be incomplete or wrong; you are responsible for reviewing it through qualified human review before relying on it.
+
+10. No liability
+    To the fullest extent the law allows, FlexWurx will not be liable to you or anyone else for any damages of any kind arising out of or relating to the Plugin or this license, whether direct, indirect, incidental, special, consequential or punitive, under any legal or equitable theory, even if FlexWurx was told such damages were possible.
+
+11. Enforcement
+    You agree that a breach or threatened breach of this license would cause FlexWurx irreparable harm for which money damages would not be an adequate remedy, and that FlexWurx is entitled to equitable relief, including a restraining order, an injunction and specific performance, without posting a bond or other security and without proving actual damages. These remedies are in addition to every other remedy available at law or in equity. If FlexWurx brings an action to enforce this license and prevails, it is entitled to recover its reasonable attorneys' fees and costs.
+
+12. Relationship to your Service Agreement
+    This license covers the Plugin only. Your use of the Service is governed by your Service Agreement. If the two conflict, your Service Agreement controls as to the Service and this license controls as to the Plugin.
+
+13. General
+    Governing law: this license is governed by the laws of the State of Colorado, without regard to its conflict of laws rules. Any suit, action or proceeding arising out of or relating to this license must be brought in the federal courts of the United States or the courts of the State of Colorado, and you irrevocably submit to their jurisdiction.
+    No waiver: no waiver by FlexWurx is effective unless it is in writing and signed by FlexWurx. No failure or delay in exercising any right is a waiver of it, and no single or partial exercise of a right prevents any further exercise of it or of any other right.
+    Severability: if any part of this license is held invalid or unenforceable, the rest stays in effect, and that part is enforced to the fullest extent allowed.
+    Assignment: you may not assign or transfer this license. FlexWurx may assign it at any time, including to a successor. This license binds and benefits FlexWurx's successors and assigns.
+    Changes: FlexWurx may change this license for future versions of the Plugin. Each version of the Plugin is governed by the license included with it.
+    Entire agreement: this license is the entire agreement between you and FlexWurx about the Plugin.
+
+Questions about this license: legal@flexwurx.com

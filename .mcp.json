@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flexwurx": {
+      "type": "http",
+      "url": "https://mcp.flexwurx.com/mcp"
+    }
+  }
+}

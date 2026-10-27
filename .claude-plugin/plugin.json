@@ -1,0 +1,12 @@
+{
+  "name": "flexwurx",
+  "displayName": "FlexWurx",
+  "version": "0.1.0",
+  "description": "Connects Claude to the contracts and insurance compliance records of the organizations you can access in FlexWurx (their properties, tenants and subs, and each contract's stored text), with the judgment to use them well.",
+  "author": {
+    "name": "FlexWurx"
+  },
+  "license": "LicenseRef-FlexWurx-Proprietary",
+  "termsOfServiceUrl": "https://flexwurx.com/legal/terms-of-service",
+  "privacyPolicyUrl": "https://flexwurx.com/legal/privacy-policy"
+}
